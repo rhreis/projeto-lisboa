@@ -102,20 +102,11 @@ dist
 
 # TernJS port file
 .tern-port
-projeto-lisboa-backend/src/Api.Application/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
-projeto-lisboa-backend/src/Api.Application/obj/Debug/netcoreapp3.1/application.AssemblyInfo.cs
-projeto-lisboa-backend/src/Api.Application/obj/Debug/netcoreapp3.1/application.AssemblyInfoInputs.cache
-projeto-lisboa-backend/src/Api.Application/obj/Debug/netcoreapp3.1/application.csprojAssemblyReference.cache
-projeto-lisboa-backend/src/Api.Application/obj/Debug/netcoreapp3.1/project.razor.json
-projeto-lisboa-backend/src/Api.CrossCutting/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
-projeto-lisboa-backend/src/Api.CrossCutting/obj/Debug/netcoreapp3.1/CrossCutting.AssemblyInfo.cs
-projeto-lisboa-backend/src/Api.CrossCutting/obj/Debug/netcoreapp3.1/CrossCutting.AssemblyInfoInputs.cache
-projeto-lisboa-backend/src/Api.Data/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
-projeto-lisboa-backend/src/Api.Data/obj/Debug/netcoreapp3.1/Data.AssemblyInfo.cs
-projeto-lisboa-backend/src/Api.Data/obj/Debug/netcoreapp3.1/Data.AssemblyInfoInputs.cache
-projeto-lisboa-backend/src/Api.Domain/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
-projeto-lisboa-backend/src/Api.Domain/obj/Debug/netcoreapp3.1/Domain.AssemblyInfo.cs
-projeto-lisboa-backend/src/Api.Domain/obj/Debug/netcoreapp3.1/Domain.AssemblyInfoInputs.cache
-projeto-lisboa-backend/src/Api.Service/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
-projeto-lisboa-backend/src/Api.Service/obj/Debug/netcoreapp3.1/Service.AssemblyInfo.cs
-projeto-lisboa-backend/src/Api.Service/obj/Debug/netcoreapp3.1/Service.AssemblyInfoInputs.cache
+
+# VS Debug
+*.suo
+*.user
+_ReSharper.*
+bin
+obj
+packages
