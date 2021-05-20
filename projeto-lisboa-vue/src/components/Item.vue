@@ -33,9 +33,7 @@
 
                 @click="selectItem(item, shape.name, metal.name)"
               >
-                
                 {{ metal.name }}
-                {{hasPhoto(shape.name, metal.name)}}
               </v-chip>
 
               

@@ -30,7 +30,6 @@
                   @click="deletePhoto(item, shape.name, metal.name)"
                 >
                   {{ metal.name }}
-                  {{hasPhoto(shape.name, metal.name)}}
                   <v-icon right>mdi-close-circle</v-icon>
                 </v-chip>
               </v-container>
@@ -42,7 +41,6 @@
                   @click="selectPhoto(item, shape.name, metal.name)"
                 >
                   {{ metal.name }}
-                  {{hasPhoto(shape.name, metal.name)}}
                   <v-icon right>mdi-cloud-upload</v-icon>
                 </v-chip>
                 <input style="display: box" type="file" ref="fileInput" @change="onFileSelected">
@@ -113,7 +111,7 @@ export default{
       processPhotos() {        
         const getMetal = p => p.propertyId === 1
         const getShape = p => p.propertyId === 2
-        var it = {}
+        let it = {}
 
         if (this.item == null)
             return
@@ -125,8 +123,8 @@ export default{
             it['name'] = i.name
             it['original'] = i
 
-            var m = i.itemPhotoPropertySet.filter(getMetal)
-            var s = i.itemPhotoPropertySet.filter(getShape)
+            let m = i.itemPhotoPropertySet.filter(getMetal)
+            let s = i.itemPhotoPropertySet.filter(getShape)
             
             it['fileName'] = i.fileName
             it['metal'] = m[0].value
@@ -136,15 +134,27 @@ export default{
           });          
       },
       deletePhoto(item, shape, metal) {
-        var result = this.itemList.filter(p => {
-          return p.metal == metal && p.shape == shape
-        })
+        var id = 0
+        this.item.itemPhotos.forEach(i => {
+          var m = ''
+          var s = ''
+            
+          i.itemPhotoPropertySet.forEach(p => {
+            console.log(p.propertyId, p.value)
+            
+            if (p.propertyId == 1)
+              m = p.value
+            else if (p.propertyId == 1)
+              s = p.value
+          })
 
-        alert(`Delete ${item.name} | ${shape} | ${metal} | ${result}`)
+          console.log(id, m, s)
+          
+          if (m == metal && s == shape)
+            id = i.id
+          });
 
-        const fd = new FormData();
-        fd.append('image', this.selectedFile, this.selectedFile.name)
-        this.$http.delete('ItemPhotos', )
+        this.$http.delete('ItemPhotos', id)
           .then(res => {
               this.items = res.data
               this.processPhotos(res.data)
@@ -154,10 +164,13 @@ export default{
         if (this.selectedFile.name == '')
           return
 
+        let ext = this.selectedFile.name.split('.').pop();
+        let fileName = `${this.itemList[0].itemId}-${shape}-${metal}.${ext}`
+        
         var data = {
           itemId: this.itemList[0].itemId,
           typeId: 1,
-          fileName: this.selectedFile.name,
+          fileName: fileName,
           position: 0,
           alt: null,
           isActive: true,
@@ -168,35 +181,32 @@ export default{
               propertyId: 2,
               value: shape
           }],          
-      }
+        }
 
-      this.$http.post('ItemPhotos', data, {
+        this.$http.post('ItemPhotos', data, {
            headers: {
               'Content-Type': 'application/json'
             }
         })
-        .then(res => {
-            this.items = res.data
+        .then(() => {            
+            // UPLOAD FILE AFTER SAVE ITEM PHOTO
+            const fd = new FormData();
+            fd.append('file', this.selectedFile, fileName)
+
+            this.$http.post('ItemPhotos/upload', fd, {
+              headers: {
+                  'Content-Type': 'multipart/form-data'
+                }
+            })
+            .then(res => {
+                alert('Success!', res.data)
+                this.processPhotos()
+            })
+
             this.getPhotoProperties()
             this.processPhotos()
             this.$route.push('/upload')
         })
-
-        // const fd = new FormData();
-        // fd.append('file', this.selectedFile, this.selectedFile.name)
-
-        // // application/json
-        // // multipart/form-data
-        // this.$http.post('ItemPhotos/upload', data, {
-        //    headers: {
-        //       'Content-Type': 'multipart/form-data'
-        //     }
-        // })
-        // .then(res => {
-        //     this.items = res.data
-        //     this.processPhotos(res.data)
-        // })
-        
       },
       onFileSelected(e) {
         this.selectedFile = e.target.files[0]
