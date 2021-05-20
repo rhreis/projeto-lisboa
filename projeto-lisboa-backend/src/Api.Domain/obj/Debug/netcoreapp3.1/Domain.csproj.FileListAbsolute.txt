@@ -1,0 +1,17 @@
+D:\treinamento\curso_api_netcore\src\Api.Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+D:\treinamento\curso_api_netcore\src\Api.Domain\bin\Debug\netcoreapp3.1\Domain.dll
+D:\treinamento\curso_api_netcore\src\Api.Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\treinamento\curso_api_netcore\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+D:\treinamento\curso_api_netcore\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+D:\treinamento\curso_api_netcore\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+D:\treinamento\curso_api_netcore\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.dll
+D:\treinamento\curso_api_netcore\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+D:\treinamento\curso_api_netcore\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.csprojAssemblyReference.cache
+D:\treinamento\projeto-lisboa\projeto-lisboa-backend\src\Api.Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+D:\treinamento\projeto-lisboa\projeto-lisboa-backend\src\Api.Domain\bin\Debug\netcoreapp3.1\Domain.dll
+D:\treinamento\projeto-lisboa\projeto-lisboa-backend\src\Api.Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\treinamento\projeto-lisboa\projeto-lisboa-backend\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+D:\treinamento\projeto-lisboa\projeto-lisboa-backend\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+D:\treinamento\projeto-lisboa\projeto-lisboa-backend\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+D:\treinamento\projeto-lisboa\projeto-lisboa-backend\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.dll
+D:\treinamento\projeto-lisboa\projeto-lisboa-backend\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.pdb
