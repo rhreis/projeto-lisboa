@@ -6015,11 +6015,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\treinamento\\projeto-lisboa\\projeto-lisboa-backend\\src\\Api.Application\\application.csproj",
+      "projectUniqueName": "D:\\git\\projeto-lisboa\\projeto-lisboa-backend\\src\\Api.Application\\application.csproj",
       "projectName": "application",
-      "projectPath": "D:\\treinamento\\projeto-lisboa\\projeto-lisboa-backend\\src\\Api.Application\\application.csproj",
+      "projectPath": "D:\\git\\projeto-lisboa\\projeto-lisboa-backend\\src\\Api.Application\\application.csproj",
       "packagesPath": "C:\\Users\\Ricardo\\.nuget\\packages\\",
-      "outputPath": "D:\\treinamento\\projeto-lisboa\\projeto-lisboa-backend\\src\\Api.Application\\obj\\",
+      "outputPath": "D:\\git\\projeto-lisboa\\projeto-lisboa-backend\\src\\Api.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ricardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6036,14 +6036,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\treinamento\\projeto-lisboa\\projeto-lisboa-backend\\src\\Api.CrossCutting\\CrossCutting.csproj": {
-              "projectPath": "D:\\treinamento\\projeto-lisboa\\projeto-lisboa-backend\\src\\Api.CrossCutting\\CrossCutting.csproj"
+            "D:\\git\\projeto-lisboa\\projeto-lisboa-backend\\src\\Api.CrossCutting\\CrossCutting.csproj": {
+              "projectPath": "D:\\git\\projeto-lisboa\\projeto-lisboa-backend\\src\\Api.CrossCutting\\CrossCutting.csproj"
             },
-            "D:\\treinamento\\projeto-lisboa\\projeto-lisboa-backend\\src\\Api.Domain\\Domain.csproj": {
-              "projectPath": "D:\\treinamento\\projeto-lisboa\\projeto-lisboa-backend\\src\\Api.Domain\\Domain.csproj"
+            "D:\\git\\projeto-lisboa\\projeto-lisboa-backend\\src\\Api.Domain\\Domain.csproj": {
+              "projectPath": "D:\\git\\projeto-lisboa\\projeto-lisboa-backend\\src\\Api.Domain\\Domain.csproj"
             },
-            "D:\\treinamento\\projeto-lisboa\\projeto-lisboa-backend\\src\\Api.Service\\Service.csproj": {
-              "projectPath": "D:\\treinamento\\projeto-lisboa\\projeto-lisboa-backend\\src\\Api.Service\\Service.csproj"
+            "D:\\git\\projeto-lisboa\\projeto-lisboa-backend\\src\\Api.Service\\Service.csproj": {
+              "projectPath": "D:\\git\\projeto-lisboa\\projeto-lisboa-backend\\src\\Api.Service\\Service.csproj"
             }
           }
         }

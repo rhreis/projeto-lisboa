@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Z0ZbRJHYMSEFRG5Ty/fiT8HO3m8eK/WuZItmpTmRFWzU7c06w679vXQdF9S0b3ATZ10+MLVWeRtZ7H/JVMJgRw==",
+  "dgSpecHash": "HuySbC/wh/zC4ZgSug56xuE17I0DKZM8Fmo/rwlHPbn+P5HsJVc/M6pL2k5q9VYH2czbEmCL+5qbJZAWCUjzBQ==",
   "success": true,
-  "projectFilePath": "D:\\treinamento\\projeto-lisboa\\projeto-lisboa-backend\\src\\Api.Service\\Service.csproj",
+  "projectFilePath": "D:\\git\\projeto-lisboa\\projeto-lisboa-backend\\src\\Api.Service\\Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ricardo\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\Ricardo\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.6\\microsoft.aspnetcore.http.features.5.0.6.nupkg.sha512",

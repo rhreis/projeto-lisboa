@@ -15,3 +15,12 @@ D:\treinamento\projeto-lisboa\projeto-lisboa-backend\src\Api.Domain\obj\Debug\ne
 D:\treinamento\projeto-lisboa\projeto-lisboa-backend\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
 D:\treinamento\projeto-lisboa\projeto-lisboa-backend\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.dll
 D:\treinamento\projeto-lisboa\projeto-lisboa-backend\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+D:\git\projeto-lisboa\projeto-lisboa-backend\src\Api.Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+D:\git\projeto-lisboa\projeto-lisboa-backend\src\Api.Domain\bin\Debug\netcoreapp3.1\Domain.dll
+D:\git\projeto-lisboa\projeto-lisboa-backend\src\Api.Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\git\projeto-lisboa\projeto-lisboa-backend\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.csprojAssemblyReference.cache
+D:\git\projeto-lisboa\projeto-lisboa-backend\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+D:\git\projeto-lisboa\projeto-lisboa-backend\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+D:\git\projeto-lisboa\projeto-lisboa-backend\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+D:\git\projeto-lisboa\projeto-lisboa-backend\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.dll
+D:\git\projeto-lisboa\projeto-lisboa-backend\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.pdb

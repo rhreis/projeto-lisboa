@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2yfS6GwFBbSaCvQ4KY5fERAlAcNYH4mXc4hNe+A683uSBqRUUDGW+YUxc496rOaY+TpdU+L9gipqDo1dRDWxzQ==",
+  "dgSpecHash": "pM2c8GEm8wH1eFTPyR0Ko/2wc/k458y4ICFJv/pZj1K/wISi+pWIxkiq5Vo+89GyFE+t47PDJPMqUzFSJTDeqQ==",
   "success": true,
-  "projectFilePath": "D:\\treinamento\\projeto-lisboa\\projeto-lisboa-backend\\src\\Api.CrossCutting\\CrossCutting.csproj",
+  "projectFilePath": "D:\\git\\projeto-lisboa\\projeto-lisboa-backend\\src\\Api.CrossCutting\\CrossCutting.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ricardo\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\Ricardo\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.0.1\\automapper.extensions.microsoft.dependencyinjection.8.0.1.nupkg.sha512",

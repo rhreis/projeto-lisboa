@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OjRd7XURVnBgzO5B22TL0KH5IPjb1Ev0CQqfnev83p/FfHuH/GYjyPcuO2noRLYDGoFJdlMO8bXK95GdTpb5rA==",
+  "dgSpecHash": "hhWNdGdOzk5Hncln/5RLnO75dv/1B7LlOz8fJepoKZd/1mxGXCK/TYFZ9L75sau5HMr3O6tY5w5hy27Jk2lk8w==",
   "success": true,
-  "projectFilePath": "D:\\treinamento\\projeto-lisboa\\projeto-lisboa-backend\\src\\Api.Application\\application.csproj",
+  "projectFilePath": "D:\\git\\projeto-lisboa\\projeto-lisboa-backend\\src\\Api.Application\\application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ricardo\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Ricardo\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

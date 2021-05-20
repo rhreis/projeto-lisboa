@@ -151,6 +151,9 @@ export default{
           })
       },
       selectPhoto(item, shape, metal) {
+        if (this.selectedFile.name == '')
+          return
+
         var data = {
           itemId: this.itemList[0].itemId,
           typeId: 1,
@@ -174,7 +177,9 @@ export default{
         })
         .then(res => {
             this.items = res.data
-            this.processPhotos(res.data)
+            this.getPhotoProperties()
+            this.processPhotos()
+            this.$route.push('/upload')
         })
 
         // const fd = new FormData();

@@ -26,3 +26,17 @@ D:\treinamento\projeto-lisboa\projeto-lisboa-backend\src\Api.Service\obj\Debug\n
 D:\treinamento\projeto-lisboa\projeto-lisboa-backend\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
 D:\treinamento\projeto-lisboa\projeto-lisboa-backend\src\Api.Service\obj\Debug\netcoreapp3.1\Service.dll
 D:\treinamento\projeto-lisboa\projeto-lisboa-backend\src\Api.Service\obj\Debug\netcoreapp3.1\Service.pdb
+D:\git\projeto-lisboa\projeto-lisboa-backend\src\Api.Service\bin\Debug\netcoreapp3.1\Service.deps.json
+D:\git\projeto-lisboa\projeto-lisboa-backend\src\Api.Service\bin\Debug\netcoreapp3.1\Service.dll
+D:\git\projeto-lisboa\projeto-lisboa-backend\src\Api.Service\bin\Debug\netcoreapp3.1\Service.pdb
+D:\git\projeto-lisboa\projeto-lisboa-backend\src\Api.Service\bin\Debug\netcoreapp3.1\Data.dll
+D:\git\projeto-lisboa\projeto-lisboa-backend\src\Api.Service\bin\Debug\netcoreapp3.1\Domain.dll
+D:\git\projeto-lisboa\projeto-lisboa-backend\src\Api.Service\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\git\projeto-lisboa\projeto-lisboa-backend\src\Api.Service\bin\Debug\netcoreapp3.1\Data.pdb
+D:\git\projeto-lisboa\projeto-lisboa-backend\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csprojAssemblyReference.cache
+D:\git\projeto-lisboa\projeto-lisboa-backend\src\Api.Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+D:\git\projeto-lisboa\projeto-lisboa-backend\src\Api.Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+D:\git\projeto-lisboa\projeto-lisboa-backend\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+D:\git\projeto-lisboa\projeto-lisboa-backend\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
+D:\git\projeto-lisboa\projeto-lisboa-backend\src\Api.Service\obj\Debug\netcoreapp3.1\Service.dll
+D:\git\projeto-lisboa\projeto-lisboa-backend\src\Api.Service\obj\Debug\netcoreapp3.1\Service.pdb

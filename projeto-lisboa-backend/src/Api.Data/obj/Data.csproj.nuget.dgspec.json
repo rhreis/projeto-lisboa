@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\treinamento\\projeto-lisboa\\projeto-lisboa-backend\\src\\Api.Data\\Data.csproj": {}
+    "D:\\git\\projeto-lisboa\\projeto-lisboa-backend\\src\\Api.Data\\Data.csproj": {}
   },
   "projects": {
-    "D:\\treinamento\\projeto-lisboa\\projeto-lisboa-backend\\src\\Api.Data\\Data.csproj": {
+    "D:\\git\\projeto-lisboa\\projeto-lisboa-backend\\src\\Api.Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\treinamento\\projeto-lisboa\\projeto-lisboa-backend\\src\\Api.Data\\Data.csproj",
+        "projectUniqueName": "D:\\git\\projeto-lisboa\\projeto-lisboa-backend\\src\\Api.Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "D:\\treinamento\\projeto-lisboa\\projeto-lisboa-backend\\src\\Api.Data\\Data.csproj",
+        "projectPath": "D:\\git\\projeto-lisboa\\projeto-lisboa-backend\\src\\Api.Data\\Data.csproj",
         "packagesPath": "C:\\Users\\Ricardo\\.nuget\\packages\\",
-        "outputPath": "D:\\treinamento\\projeto-lisboa\\projeto-lisboa-backend\\src\\Api.Data\\obj\\",
+        "outputPath": "D:\\git\\projeto-lisboa\\projeto-lisboa-backend\\src\\Api.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ricardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\treinamento\\projeto-lisboa\\projeto-lisboa-backend\\src\\Api.Domain\\Domain.csproj": {
-                "projectPath": "D:\\treinamento\\projeto-lisboa\\projeto-lisboa-backend\\src\\Api.Domain\\Domain.csproj"
+              "D:\\git\\projeto-lisboa\\projeto-lisboa-backend\\src\\Api.Domain\\Domain.csproj": {
+                "projectPath": "D:\\git\\projeto-lisboa\\projeto-lisboa-backend\\src\\Api.Domain\\Domain.csproj"
               }
             }
           }
@@ -84,14 +84,14 @@
         }
       }
     },
-    "D:\\treinamento\\projeto-lisboa\\projeto-lisboa-backend\\src\\Api.Domain\\Domain.csproj": {
+    "D:\\git\\projeto-lisboa\\projeto-lisboa-backend\\src\\Api.Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\treinamento\\projeto-lisboa\\projeto-lisboa-backend\\src\\Api.Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\git\\projeto-lisboa\\projeto-lisboa-backend\\src\\Api.Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\treinamento\\projeto-lisboa\\projeto-lisboa-backend\\src\\Api.Domain\\Domain.csproj",
+        "projectPath": "D:\\git\\projeto-lisboa\\projeto-lisboa-backend\\src\\Api.Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Ricardo\\.nuget\\packages\\",
-        "outputPath": "D:\\treinamento\\projeto-lisboa\\projeto-lisboa-backend\\src\\Api.Domain\\obj\\",
+        "outputPath": "D:\\git\\projeto-lisboa\\projeto-lisboa-backend\\src\\Api.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ricardo\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -5439,11 +5439,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\treinamento\\projeto-lisboa\\projeto-lisboa-backend\\src\\Api.Service\\Service.csproj",
+      "projectUniqueName": "D:\\git\\projeto-lisboa\\projeto-lisboa-backend\\src\\Api.Service\\Service.csproj",
       "projectName": "Service",
-      "projectPath": "D:\\treinamento\\projeto-lisboa\\projeto-lisboa-backend\\src\\Api.Service\\Service.csproj",
+      "projectPath": "D:\\git\\projeto-lisboa\\projeto-lisboa-backend\\src\\Api.Service\\Service.csproj",
       "packagesPath": "C:\\Users\\Ricardo\\.nuget\\packages\\",
-      "outputPath": "D:\\treinamento\\projeto-lisboa\\projeto-lisboa-backend\\src\\Api.Service\\obj\\",
+      "outputPath": "D:\\git\\projeto-lisboa\\projeto-lisboa-backend\\src\\Api.Service\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ricardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5460,11 +5460,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\treinamento\\projeto-lisboa\\projeto-lisboa-backend\\src\\Api.Data\\Data.csproj": {
-              "projectPath": "D:\\treinamento\\projeto-lisboa\\projeto-lisboa-backend\\src\\Api.Data\\Data.csproj"
+            "D:\\git\\projeto-lisboa\\projeto-lisboa-backend\\src\\Api.Data\\Data.csproj": {
+              "projectPath": "D:\\git\\projeto-lisboa\\projeto-lisboa-backend\\src\\Api.Data\\Data.csproj"
             },
-            "D:\\treinamento\\projeto-lisboa\\projeto-lisboa-backend\\src\\Api.Domain\\Domain.csproj": {
-              "projectPath": "D:\\treinamento\\projeto-lisboa\\projeto-lisboa-backend\\src\\Api.Domain\\Domain.csproj"
+            "D:\\git\\projeto-lisboa\\projeto-lisboa-backend\\src\\Api.Domain\\Domain.csproj": {
+              "projectPath": "D:\\git\\projeto-lisboa\\projeto-lisboa-backend\\src\\Api.Domain\\Domain.csproj"
             }
           }
         }
